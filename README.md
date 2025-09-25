@@ -2,7 +2,10 @@
 <h1 align="center">
   <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Ola+dev!+👋;+I'm+Matheus+Sousa+Araujo!;" />
 </h1>
-
+<p>
+  Olá, meu nome é Matheus Sousa Araújo, tenho 25 anos, sou de Goiânia - GO e estou cursando Engenharia de Software, Tenho interesse em desenvolvimento Fullstack, 
+  sempre buscando aprimorar minhas habilidades e aplicar boas práticas de programação, este repositório reúne meus projetos, estudos e experiências ao longo da minha trajetória como desenvolvedor.
+</p>
 <h3 align="center">A passionate fullstack developer from Brazil</h3>
 
 Mastered technologies and topics
