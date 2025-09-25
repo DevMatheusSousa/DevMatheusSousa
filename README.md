@@ -31,6 +31,7 @@
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
 ### 🧩 Frameworks and Libraries
+<img width="836" height="892" alt="image" src="https://github.com/user-attachments/assets/b559e29b-e9f5-447d-8a54-1015e456f95b" />
 
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
 
