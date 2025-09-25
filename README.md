@@ -24,7 +24,7 @@
 
 ### 👨‍💻 Programming and Markup Languages
 
-<img width="256" height="256" alt="image" src="https://github.com/user-attachments/assets/3a105818-1c78-4200-9002-e8cab5efefba" />
+<img width="56" height="56" alt="image" src="https://github.com/user-attachments/assets/3a105818-1c78-4200-9002-e8cab5efefba" />
 
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
