@@ -1,7 +1,7 @@
 <h1 align="center">
   <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Ola+dev!+👋;+I'm+Matheus+Sousa+Araújo!;" />
 </h1>
-<img width="256" height="256" alt="image" src="https://github.com/user-attachments/assets/42105997-5c9f-4d7c-868b-94b2fac0b17d" />
+<img width="36" height="36" alt="image" src="https://github.com/user-attachments/assets/42105997-5c9f-4d7c-868b-94b2fac0b17d" />
 
 <h3 align="center">A passionate fullstack developer from Brazil</h3>
 
@@ -28,8 +28,8 @@ Programming and Markup Languages
 💻 Software and Tools
 
 <img width="36" height="36" alt="image" src="https://github.com/user-attachments/assets/8aa01bf3-b4cb-47a6-bf6d-b8278f888a27" />
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![Visual Studio Code](https://img.shields.io/badge/Visual_Studio_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+<img width="36" height="36" alt="image" src="https://github.com/user-attachments/assets/b4807ba1-184c-4a86-ac9a-c9c717322e62" />
+<img width="36" height="36" alt="image" src="https://github.com/user-attachments/assets/1b6a0710-1dc2-4c77-8213-94064e31e983" />
 <img width="36" height="36" alt="image" src="https://github.com/user-attachments/assets/6218b18a-b133-4aaa-9e6b-d08990efc190" />
 
 
