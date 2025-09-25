@@ -1,6 +1,5 @@
 ## Hi there 👋
 
-<!--
 # Olá, eu sou o Matheus Sousa Araújo! 👋
 
 ### Desenvolvedor Fullstack | Java, Spring Boot, MySQL, HTML, CSS, TypeScript
@@ -47,5 +46,3 @@ Estou sempre aberto a novas conexões, colaborações e oportunidades. Sinta-se 
 </p>
 
 
-
--->
