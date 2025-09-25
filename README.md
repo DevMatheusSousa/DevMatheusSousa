@@ -3,14 +3,7 @@
   <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Ola+dev!+👋;+I'm+Matheus+Sousa+Araújo!;" />
 </h1>
 
-<p align="center">
-  <img width="36" height="36" src="https://github.com/user-attachments/assets/42105997-5c9f-4d7c-868b-94b2fac0b17d" />
-  <img width="36" height="36" src="https://github.com/user-attachments/assets/fda8378f-4597-4181-baa5-381360bcc83d" />
-</p>
-
 <h3 align="center">A passionate fullstack developer from Brazil</h3>
-
----
 
 Mastered technologies and topics
 
@@ -39,5 +32,10 @@ Mastered technologies and topics
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=DevMatheusSousa&theme=react-dark&bg_color=0d1117&hide_border=true" width="100%"/>
 </div>
+
+<p align="center">
+  <img width="36" height="36" src="https://github.com/user-attachments/assets/42105997-5c9f-4d7c-868b-94b2fac0b17d" />
+  <img width="36" height="36" src="https://github.com/user-attachments/assets/fda8378f-4597-4181-baa5-381360bcc83d" />
+</p>
 
 ---
