@@ -1,49 +1,97 @@
-# 👋 Olá, eu sou o Matheus Sousa Araújo!
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Matheus+Sousa+Araújo!;" />
+</h1>
 
-### Desenvolvedor Fullstack em formação
+<h3 align="center">A passionate fullstack developer from Brazil</h3>
 
-Sou um entusiasta da tecnologia, atualmente focado em me tornar um desenvolvedor Fullstack. Minha stack principal inclui Java, Spring Boot, MySQL, HTML, CSS e TypeScript. Estou sempre buscando aprender novas tecnologias e melhorar minhas habilidades.
-
----
-
-## 🛠️ Tecnologias e Ferramentas
+<br/>
 
 <div align="center">
+ 
+ 🔭 I’m currently working on **Java and Spring Boot projects**
+ 
+ 🌱 I’m currently learning **Advanced Spring Boot and Angular**
+ 
+ ❓ Ask me about **Java, Spring Boot, MySQL, HTML, CSS, TypeScript**
+ 
+ ⚡ Fun fact: **I love coding and coffee**
+ 
+</div>
 
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
+<br/>
+
+## 🛠️ My Skills
+
+### 👨‍💻 Programming and Markup Languages
+
+![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+
+### 🧩 Frameworks and Libraries
+
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
+
+### 🗄️ Databases and Cloud Hosting
+
+![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
+
+### 💻 Software and Tools
+
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Visual Studio Code](https://img.shields.io/badge/Visual_Studio_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-000000?style=for-the-badge&logo=intellij-idea&logoColor=white)
 
-</div>
+<br/>
 
----
-
-## 📈 Estatísticas do GitHub
+## 📊 GitHub Stats
 
 <div align="center">
-
-![Matheus's GitHub stats](https://github-readme-stats.vercel.app/api?username=DevMatheusSousa&show_icons=true&theme=radical)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DevMatheusSousa&layout=compact&theme=radical)
-
+  <img width="49%" height="200px" src="https://github-readme-stats.vercel.app/api?username=DevMatheusSousa&show_icons=true&count_private=true&hide_border=true&title_color=00bfbf&icon_color=00bfbf&text_color=c9d1d9&bg_color=0d1117" alt="Matheus Sousa github stats" /> 
+  <img width="41%" height="200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DevMatheusSousa&layout=compact&hide_border=true&title_color=00bfbf&text_color=00bfbf&bg_color=0d1117" />
 </div>
 
----
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=DevMatheusSousa&theme=react-dark&bg_color=0d1117&hide_border=true" width="100%"/>
+</div>
 
-## 🌐 Conecte-se comigo
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=DevMatheusSousa&theme=black-ice&hide_border=true&stroke=0000&background=0d1117&ring=00bfbf&fire=00bfbf&currStreakLabel=00bfbf" width="100%"/>
+</div>
 
+<br/>
+
+## 🐍 Contribution Graph
+
+<div align="center">
+  <img src="https://github.com/DevMatheusSousa/DevMatheusSousa/blob/output/github-contribution-grid-snake.svg" alt="snake gif"/>
+</div>
+
+<br/>
+
+## 🤝 Let's Connect!
+
+<div align="center"> 
+  
+[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dev.matheus.contato@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/matheus-sousa-araujo-98165931a/)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dev.matheus.contato@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/DevMatheusSousa)
+
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=DevMatheusSousa&style=for-the-badge&color=00bfbf" alt="profile views"/> 
+</div>
 
 ---
 
 <div align="center">
-
-### Obrigado pela visita! 😄
+  
+✨ **Made with ❤️ and ☕ by Matheus Sousa Araújo** ✨
 
 </div>
