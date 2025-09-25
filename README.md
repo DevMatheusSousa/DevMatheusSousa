@@ -2,15 +2,26 @@
 
 ### Desenvolvedor Fullstack | Java, Spring Boot, MySQL, HTML, CSS, TypeScript
 
+---
+
+## 🚀 Sobre Mim
+
+Sou o Matheus, um desenvolvedor apaixonado por criar soluções robustas e eficientes. Minha jornada na programação é movida pela curiosidade e pelo desejo de inovar. Foco em desenvolvimento backend com Java e Spring Boot, e frontend com HTML, CSS e TypeScript. Adoro desafios e busco constantemente aprimorar minhas habilidades para construir aplicações inovadoras.
+
+---
+
 ## 🛠️ Habilidades Técnicas
 
-Minha stack de desenvolvimento é focada em tecnologias modernas e amplamente utilizadas no mercado. Aqui estão as principais ferramentas e linguagens que eu domino:
+Minha stack é focada em tecnologias modernas:
 
-| Backend             | Frontend           | Banco de Dados      |
-| :------------------ | :----------------- | :------------------ |
-| ![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white) | ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) | ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white) |
-| ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white) | ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white) |                     |
-|                     | ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white) |                     |
+<p align="center">
+  <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" alt="Java"/>
+  <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white" alt="Spring Boot"/>
+  <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>
+  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript"/>
+</p>
 
 ---
 
@@ -32,10 +43,16 @@ Esta seção será o lar dos meus projetos futuros! Fique atento(a) para ver as 
 
 ## 📬 Conecte-se Comigo
 
-Estou sempre aberto a novas conexões, colaborações e oportunidades. Sinta-se à vontade para entrar em contato!
+Estou sempre aberto a novas conexões e oportunidades. Sinta-se à vontade para entrar em contato!
 
-[![Email](https://img.shields.io/badge/Email-dev.matheus.contato@gmail.com-blue?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dev.matheus.contato@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Matheus%20Sousa%20Araújo-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/matheus-sousa-araujo-98165931a/)
+<p align="center">
+  <a href="mailto:dev.matheus.contato@gmail.com">
+    <img src="https://img.shields.io/badge/Email-dev.matheus.contato@gmail.com-blue?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
+  <a href="https://www.linkedin.com/in/matheus-sousa-araujo-98165931a/">
+    <img src="https://img.shields.io/badge/LinkedIn-Matheus%20Sousa%20Araújo-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+</p>
 
 ---
 
