@@ -1,52 +1,36 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Matheus+Sousa+Araújo!;" />
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Ola+dev!+👋;+I'm+Matheus+Sousa+Araújo!;" />
 </h1>
+<img width="256" height="256" alt="image" src="https://github.com/user-attachments/assets/42105997-5c9f-4d7c-868b-94b2fac0b17d" />
 
 <h3 align="center">A passionate fullstack developer from Brazil</h3>
 
-<br/>
+Programming and Markup Languages
 
-<div align="center">
- 
- 🔭 I’m currently working on **Java and Spring Boot projects**
- 
- 🌱 I’m currently learning **Advanced Spring Boot and Angular**
- 
- ❓ Ask me about **Java, Spring Boot, MySQL, HTML, CSS, TypeScript**
- 
- ⚡ Fun fact: **I love coding and coffee**
- 
-</div>
-
-<br/>
-
-## 🛠️ My Skills
-
-### 👨‍💻 Programming and Markup Languages
-
-<img width="56" height="56" alt="image" src="https://github.com/user-attachments/assets/3a105818-1c78-4200-9002-e8cab5efefba" />
-
-<img width="56" height="56" alt="image" src="https://github.com/user-attachments/assets/26fec038-21b0-4d5e-ac35-0c9c4f7a9a7c" />
+<img width="36" height="36" alt="image" src="https://github.com/user-attachments/assets/3a105818-1c78-4200-9002-e8cab5efefba" />
+<img width="36" height="36" alt="image" src="https://github.com/user-attachments/assets/26fec038-21b0-4d5e-ac35-0c9c4f7a9a7c" />
+<img width="36" height="36" alt="image" src="https://github.com/user-attachments/assets/99a80356-2600-4756-82a5-c663fa263246" />
+<img width="36" height="36" alt="image" src="https://github.com/user-attachments/assets/fd62895c-85e6-41d0-afd7-1aea63f9e0da" />
 
 
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-
-### 🧩 Frameworks and Libraries
-<img width="836" height="892" alt="image" src="https://github.com/user-attachments/assets/b559e29b-e9f5-447d-8a54-1015e456f95b" />
+ Frameworks and Libraries
+<img width="36" height="36" alt="image" src="https://github.com/user-attachments/assets/2f999fad-e251-400d-9ded-3c386b95fa12" />
+<img width="36" height="36" alt="image" src="https://github.com/user-attachments/assets/b60a2fb2-f22c-4b74-ac72-533972a82b65" />
+<img width="36" height="36" alt="image" src="https://github.com/user-attachments/assets/9f6913c2-98a3-4607-8bb6-9a431040c434" />
 
 
-### 🗄️ Databases and Cloud Hosting
+
+
+ Databases and Cloud Hosting
 
 ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
 
-### 💻 Software and Tools
+💻 Software and Tools
 
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+<img width="36" height="36" alt="image" src="https://github.com/user-attachments/assets/8aa01bf3-b4cb-47a6-bf6d-b8278f888a27" />
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![Visual Studio Code](https://img.shields.io/badge/Visual_Studio_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-<img width="256" height="256" alt="image" src="https://github.com/user-attachments/assets/6218b18a-b133-4aaa-9e6b-d08990efc190" />
+<img width="36" height="36" alt="image" src="https://github.com/user-attachments/assets/6218b18a-b133-4aaa-9e6b-d08990efc190" />
 
 
 <br/>
@@ -63,7 +47,8 @@
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=DevMatheusSousa&theme=black-ice&hide_border=true&stroke=0000&background=0d1117&ring=00bfbf&fire=00bfbf&currStreakLabel=00bfbf" width="100%"/>
+  <img width="36" height="36" alt="image" src="https://github.com/user-attachments/assets/f5a0e5ed-63db-488e-9755-6afda999c6ff" />
+
 </div>
 
 <br/>
