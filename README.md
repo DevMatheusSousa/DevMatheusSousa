@@ -1,10 +1,8 @@
-## Hi there 👋
-
 # Olá, eu sou o Matheus Sousa Araújo! 👋
 
 ### Desenvolvedor Fullstack | Java, Spring Boot, MySQL, HTML, CSS, TypeScript
 
---- 
+---
 
 ## 🚀 Sobre Mim
 
@@ -12,7 +10,7 @@ Bem-vindo(a) ao meu espaço digital! Sou o Matheus, um desenvolvedor apaixonado 
 
 Minha paixão se estende desde a arquitetura de sistemas complexos com Java e Spring Boot até a criação de interfaces de usuário dinâmicas e responsivas com HTML, CSS e TypeScript. Acredito que a tecnologia tem o poder de simplificar o mundo e estou sempre em busca de novos desafios para aprimorar minhas habilidades e contribuir para projetos significativos.
 
---- 
+---
 
 ## 🛠️ Habilidades Técnicas
 
@@ -24,13 +22,23 @@ Minha stack de desenvolvimento é focada em tecnologias modernas e amplamente ut
 | ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white) | ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white) |                     |
 |                     | ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white) |                     |
 
---- 
+---
+
+## 📊 Minhas Estatísticas no GitHub
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=DevMatheusSousa&show_icons=true&theme=blue-green&hide_border=true&count_private=true" alt="GitHub Stats"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=DevMatheusSousa&theme=blue-green&hide_border=true" alt="GitHub Streak"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DevMatheusSousa&layout=compact&theme=blue-green&hide_border=true" alt="Top Languages"/>
+</p>
+
+---
 
 ## 💡 Projetos
 
 Esta seção será o lar dos meus projetos futuros! Fique atento(a) para ver as minhas criações e contribuições para o mundo do desenvolvimento de software. Em breve, você encontrará aqui exemplos práticos da minha paixão por codificar e resolver problemas.
 
---- 
+---
 
 ## 📬 Conecte-se Comigo
 
@@ -39,7 +47,7 @@ Estou sempre aberto a novas conexões, colaborações e oportunidades. Sinta-se 
 [![Email](https://img.shields.io/badge/Email-dev.matheus.contato@gmail.com-blue?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dev.matheus.contato@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Matheus%20Sousa%20Araújo-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/matheus-sousa-araujo-98165931a/)
 
---- 
+---
 
 <p align="center">
   Feito com ❤️ por Matheus Sousa Araújo
