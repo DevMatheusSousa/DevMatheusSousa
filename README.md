@@ -2,14 +2,6 @@
 
 ### Desenvolvedor Fullstack | Java, Spring Boot, MySQL, HTML, CSS, TypeScript
 
----
-
-
-
-
-
----
-
 ## 🛠️ Habilidades Técnicas
 
 Minha stack de desenvolvimento é focada em tecnologias modernas e amplamente utilizadas no mercado. Aqui estão as principais ferramentas e linguagens que eu domino:
