@@ -58,29 +58,3 @@
 </div>
 
 ---
-
-## 🐍 Contribution Graph
-
-<div align="center">
-  <img src="https://github.com/DevMatheusSousa/DevMatheusSousa/blob/output/github-contribution-grid-snake.svg" alt="snake gif"/>
-</div>
-
----
-
-## 🤝 Let's Connect!
-
-<div align="center">
-  [![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dev.matheus.contato@gmail.com)
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/matheus-sousa-araujo-98165931a/)
-  [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/DevMatheusSousa)
-</div>
-
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=DevMatheusSousa&style=for-the-badge&color=00bfbf" alt="profile views"/> 
-</div>
-
----
-
-<div align="center">
-✨ **Made with ❤️ and ☕ by Matheus Sousa Araújo** ✨
-</div>
