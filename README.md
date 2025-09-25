@@ -6,7 +6,7 @@
 
 ## 🚀 Sobre Mim
 
-Sou o Matheus, um desenvolvedor apaixonado por criar soluções robustas e eficientes. Minha jornada na programação é movida pela curiosidade e pelo desejo de inovar. Foco em desenvolvimento backend com Java e Spring Boot, e frontend com HTML, CSS e TypeScript. Adoro desafios e busco constantemente aprimorar minhas habilidades para construir aplicações inovadoras.
+Desenvolvedor apaixonado por criar soluções robustas e eficientes. Minha jornada na programação é movida pela curiosidade e pelo desejo de inovar. Foco em desenvolvimento backend com Java e Spring Boot, e frontend com HTML, CSS e TypeScript. Busco constantemente aprimorar minhas habilidades para construir aplicações inovadoras.
 
 ---
 
@@ -37,7 +37,7 @@ Minha stack é focada em tecnologias modernas:
 
 ## 💡 Projetos
 
-Esta seção será o lar dos meus projetos futuros! Fique atento(a) para ver as minhas criações e contribuições para o mundo do desenvolvimento de software. Em breve, você encontrará aqui exemplos práticos da minha paixão por codificar e resolver problemas.
+Esta seção será o lar dos meus projetos futuros! Fique atento(a) para ver as minhas criações e contribuições para o mundo do desenvolvimento de software.
 
 ---
 
