@@ -4,11 +4,9 @@
 
 ---
 
-## 🚀 Sobre Mim
 
-Bem-vindo(a) ao meu espaço digital! Sou o Matheus, um desenvolvedor apaixonado por transformar ideias em soluções de software robustas e eficientes. Minha jornada no universo da programação é movida pela curiosidade e pelo desejo constante de aprender e inovar. Com uma base sólida em desenvolvimento backend e frontend, adoro construir aplicações que não apenas funcionam, mas que também oferecem uma ótima experiência ao usuário.
 
-Minha paixão se estende desde a arquitetura de sistemas complexos com Java e Spring Boot até a criação de interfaces de usuário dinâmicas e responsivas com HTML, CSS e TypeScript. Acredito que a tecnologia tem o poder de simplificar o mundo e estou sempre em busca de novos desafios para aprimorar minhas habilidades e contribuir para projetos significativos.
+
 
 ---
 
