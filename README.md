@@ -38,6 +38,7 @@ Mastered technologies and topics
   
 </div>
 
+
 <p align="center">
   <img width="36" height="36" src="https://github.com/user-attachments/assets/42105997-5c9f-4d7c-868b-94b2fac0b17d" />
   <img width="36" height="36" src="https://github.com/user-attachments/assets/fda8378f-4597-4181-baa5-381360bcc83d" />
