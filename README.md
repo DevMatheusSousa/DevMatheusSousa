@@ -29,11 +29,7 @@ Mastered technologies and topics
 
 <div align="center"> <img src="https://raw.githubusercontent.com/DevMatheusSousa/DevMatheusSousa/output/github-contribution-grid-snake.svg" alt="Animação de cobra das contribuições"/> </div>
 
-<div align="center">
-  
-  ![Snake animation](https://github.com/DevMatheusSousa/DevMatheusSousa/blob/output/github-contribution-grid-snake.svg)
-  
-</div>
+<div align="center"> <img src="https://github-readme-stats.vercel.app/api/pin/?username=DevMatheusSousa&repo=convoychat&title_color=00bfbf&icon_color=00bfbf&text_color=c9d1d9&bg_color=0d1117" alt="Linhas de código"/> <em>(Nota: Este é um exemplo de um repositório específico. A ferramenta para contar todas as linhas pode ter um visual similar, focando no número total. )</em> Uma ferramenta mais direta para isso seria o `metrics`, que pode gerar um resumo completo, incluindo as linhas de código. </div>
 
 <p align="center">
   <img width="36" height="36" src="https://github.com/user-attachments/assets/42105997-5c9f-4d7c-868b-94b2fac0b17d" />
