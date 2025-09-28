@@ -27,37 +27,59 @@ Mastered technologies and topics
 
 ## 📊 GitHub Stats
 
-<div align="center" style="display: flex; justify-content: center; gap: 25px; flex-wrap: wrap; margin-top: 20px;">
+<div align="center" style="display: flex; justify-content: center; gap: 20px; flex-wrap: wrap; margin-top: 20px;">
+
   <!-- GitHub Stats Card -->
-  <div style="width: 48%; height: 200px; border-radius: 15px; overflow: hidden; box-shadow: 0 10px 25px rgba(0,0,0,0.5); transition: transform 0.3s, box-shadow 0.3s;">
+  <div style="
+    width: 48%;
+    height: 200px;
+    border-radius: 20px;
+    backdrop-filter: blur(10px);
+    background: rgba(13,17,23,0.6);
+    border: 1px solid rgba(0, 191, 191, 0.4);
+    box-shadow: 0 8px 30px rgba(0, 191, 191, 0.3);
+    overflow: hidden;
+    transition: transform 0.4s, box-shadow 0.4s;
+  ">
     <a href="https://github.com/DevMatheusSousa" target="_blank">
       <img 
         src="https://github-readme-stats.vercel.app/api?username=DevMatheusSousa&show_icons=true&count_private=true&hide_border=true&title_color=00bfbf&icon_color=00bfbf&text_color=c9d1d9&bg_color=0d1117" 
-        alt="Matheus Sousa github stats" 
-        style="width: 100%; height: 100%; display: block;"
+        alt="GitHub Stats" 
+        style="width: 100%; height: 100%; object-fit: cover;"
       />
     </a>
   </div>
 
   <!-- Top Languages Card -->
-  <div style="width: 48%; height: 200px; border-radius: 15px; overflow: hidden; box-shadow: 0 10px 25px rgba(0,0,0,0.5); transition: transform 0.3s, box-shadow 0.3s;">
+  <div style="
+    width: 48%;
+    height: 200px;
+    border-radius: 20px;
+    backdrop-filter: blur(10px);
+    background: rgba(13,17,23,0.6);
+    border: 1px solid rgba(0, 191, 191, 0.4);
+    box-shadow: 0 8px 30px rgba(0, 191, 191, 0.3);
+    overflow: hidden;
+    transition: transform 0.4s, box-shadow 0.4s;
+  ">
     <a href="https://github.com/DevMatheusSousa?tab=repositories" target="_blank">
       <img 
         src="https://github-readme-stats.vercel.app/api/top-langs/?username=DevMatheusSousa&layout=compact&hide_border=true&title_color=00bfbf&text_color=00bfbf&bg_color=0d1117" 
-        alt="Top languages" 
-        style="width: 100%; height: 100%; display: block;"
+        alt="Top Languages" 
+        style="width: 100%; height: 100%; object-fit: cover;"
       />
     </a>
   </div>
+
 </div>
 
-<!-- Hover Effect -->
 <style>
   div > div:hover {
-    transform: translateY(-5px);
-    box-shadow: 0 15px 35px rgba(0,0,0,0.6);
+    transform: translateY(-10px) scale(1.03);
+    box-shadow: 0 15px 40px rgba(0,191,191,0.5);
   }
 </style>
+
 
 
 
