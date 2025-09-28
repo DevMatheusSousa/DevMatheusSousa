@@ -27,7 +27,7 @@ Mastered technologies and topics
 
 ## 📊 GitHub Stats
 
-<div align="center"> <img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,nodejs,express,prisma,tailwind,docker,git" alt="Ícones de Habilidades"/> <em>(Estes são ícones de exemplo. Posso personalizar com as suas tecnologias principais! )</em> </div>
+<div align="center"> <img width="90%" src="https://github-profile-trophy.vercel.app/?username=DevMatheusSousa&theme=radical&no-frame=true&no-bg=true&margin-w=4" alt="Troféus do GitHub"/> </div>
 
 <div align="center">
   
