@@ -27,25 +27,6 @@ Mastered technologies and topics
 
 ## 📊 GitHub Stats
 
-<div align="center" style="display:flex; justify-content:center; flex-wrap:wrap; gap:20px; margin-top:20px;">
-
-  <a href="https://github.com/DevMatheusSousa" target="_blank" style="width:45%; height:200px; border-radius:15px; overflow:hidden; box-shadow:0 0 20px #00fff7, 0 0 40px #00fff7 inset; transition: transform 0.3s;">
-    <img src="https://github-readme-stats.vercel.app/api?username=DevMatheusSousa&show_icons=true&count_private=true&hide_border=true&title_color=00bfbf&icon_color=00bfbf&text_color=c9d1d9&bg_color=0d1117" style="width:100%; height:100%; object-fit:cover; border-radius:15px;" alt="GitHub Stats">
-  </a>
-
-  <a href="https://github.com/DevMatheusSousa?tab=repositories" target="_blank" style="width:45%; height:200px; border-radius:15px; overflow:hidden; box-shadow:0 0 20px #00fff7, 0 0 40px #00fff7 inset; transition: transform 0.3s;">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DevMatheusSousa&layout=compact&hide_border=true&title_color=00bfbf&text_color=00bfbf&bg_color=0d1117" style="width:100%; height:100%; object-fit:cover; border-radius:15px;" alt="Top Languages">
-  </a>
-
-</div>
-
-<style>
-  a:hover { transform: scale(1.05) translateY(-5px); }
-</style>
-
-
-
-
 
 <div align="center">
   
