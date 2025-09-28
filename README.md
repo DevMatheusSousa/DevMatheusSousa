@@ -27,7 +27,7 @@ Mastered technologies and topics
 
 ## 📊 GitHub Stats
 
-<div align="center"> <img width="45%" src="https://github-readme-stats.vercel.app/api/wakatime?username=anuraghazra&hide_border=true&bg_color=0d1117&title_color=00bfbf&icon_color=00bfbf&text_color=c9d1d9" alt="Estatísticas WakaTime" /> </div>
+<div align="center"> <img src="https://myreadme.vercel.app/api/embed/DevMatheusSousa?panels=user-visitors" alt="Mapa de visitantes do perfil" /> </div>
 
 <div align="center">
   
