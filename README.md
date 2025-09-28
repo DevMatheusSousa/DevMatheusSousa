@@ -27,7 +27,7 @@ Mastered technologies and topics
 
 ## 📊 GitHub Stats
 
-<div align="center"> <img width="400px" src="https://github-readme-stats.vercel.app/api?username=DevMatheusSousa&show_icons=true&hide_border=true&theme=gotham&bg_color=0d1117" alt="Card de estatísticas estilo anime"/> </div>
+<div align="center"> <img src="https://raw.githubusercontent.com/DevMatheusSousa/DevMatheusSousa/output/github-contribution-grid-snake.svg" alt="Animação de cobra das contribuições"/> </div>
 
 <div align="center">
   
