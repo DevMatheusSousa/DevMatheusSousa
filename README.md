@@ -27,7 +27,7 @@ Mastered technologies and topics
 
 ## 📊 GitHub Stats
 
-<div align="center"> <img width="90%" src="https://github-profile-trophy.vercel.app/?username=DevMatheusSousa&theme=radical&no-frame=true&no-bg=true&margin-w=4" alt="Troféus do GitHub"/> </div>
+<div align="center"> <img width="400px" src="https://github-readme-stats.vercel.app/api?username=DevMatheusSousa&show_icons=true&hide_border=true&theme=gotham&bg_color=0d1117" alt="Card de estatísticas estilo anime"/> </div>
 
 <div align="center">
   
