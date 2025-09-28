@@ -27,22 +27,38 @@ Mastered technologies and topics
 
 ## 📊 GitHub Stats
 
-<div align="center" style="display: flex; justify-content: center; gap: 20px; flex-wrap: wrap;">
-  <img 
-    width="48%" 
-    height="200px" 
-    style="border-radius: 10px; box-shadow: 0 4px 12px rgba(0,0,0,0.3);" 
-    src="https://github-readme-stats.vercel.app/api?username=DevMatheusSousa&show_icons=true&count_private=true&hide_border=true&title_color=00bfbf&icon_color=00bfbf&text_color=c9d1d9&bg_color=0d1117" 
-    alt="Matheus Sousa github stats" 
-  /> 
-  <img 
-    width="48%" 
-    height="200px" 
-    style="border-radius: 10px; box-shadow: 0 4px 12px rgba(0,0,0,0.3);" 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=DevMatheusSousa&layout=compact&hide_border=true&title_color=00bfbf&text_color=00bfbf&bg_color=0d1117" 
-    alt="Top languages" 
-  />
+<div align="center" style="display: flex; justify-content: center; gap: 25px; flex-wrap: wrap; margin-top: 20px;">
+  <!-- GitHub Stats Card -->
+  <div style="width: 48%; height: 200px; border-radius: 15px; overflow: hidden; box-shadow: 0 10px 25px rgba(0,0,0,0.5); transition: transform 0.3s, box-shadow 0.3s;">
+    <a href="https://github.com/DevMatheusSousa" target="_blank">
+      <img 
+        src="https://github-readme-stats.vercel.app/api?username=DevMatheusSousa&show_icons=true&count_private=true&hide_border=true&title_color=00bfbf&icon_color=00bfbf&text_color=c9d1d9&bg_color=0d1117" 
+        alt="Matheus Sousa github stats" 
+        style="width: 100%; height: 100%; display: block;"
+      />
+    </a>
+  </div>
+
+  <!-- Top Languages Card -->
+  <div style="width: 48%; height: 200px; border-radius: 15px; overflow: hidden; box-shadow: 0 10px 25px rgba(0,0,0,0.5); transition: transform 0.3s, box-shadow 0.3s;">
+    <a href="https://github.com/DevMatheusSousa?tab=repositories" target="_blank">
+      <img 
+        src="https://github-readme-stats.vercel.app/api/top-langs/?username=DevMatheusSousa&layout=compact&hide_border=true&title_color=00bfbf&text_color=00bfbf&bg_color=0d1117" 
+        alt="Top languages" 
+        style="width: 100%; height: 100%; display: block;"
+      />
+    </a>
+  </div>
 </div>
+
+<!-- Hover Effect -->
+<style>
+  div > div:hover {
+    transform: translateY(-5px);
+    box-shadow: 0 15px 35px rgba(0,0,0,0.6);
+  }
+</style>
+
 
 
 <div align="center">
