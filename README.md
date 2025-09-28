@@ -27,8 +27,7 @@ Mastered technologies and topics
 
 ## 📊 GitHub Stats
 
-<div align="center"> <img width="49%" height="200px" src="https://github-readme-stats.vercel.app/api?username=DevMatheusSousa&show_icons=true&hide_border=true&title_color=ffA500&icon_color=ffA500&text_color=c9d1d9&bg_color=0d1117&theme=dark" alt="Estatísticas de Matheus Sousa no estilo minimalista" /> <img width="41%" height="200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DevMatheusSousa&layout=compact&hide_border=true&title_color=ffA500&text_color=ffA500&bg_color=0d1117&theme=dark" /> </div>
-
+<div align="center"> <img width="45%" src="https://github-readme-stats.vercel.app/api/wakatime?username=anuraghazra&hide_border=true&bg_color=0d1117&title_color=00bfbf&icon_color=00bfbf&text_color=c9d1d9" alt="Estatísticas WakaTime" /> </div>
 
 <div align="center">
   
