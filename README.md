@@ -27,7 +27,7 @@ Mastered technologies and topics
 
 ## 📊 GitHub Stats
 
-<div align="center"> <img width="90%" src="https://github-readme-activity-graph.vercel.app/graph?username=DevMatheusSousa&bg_color=0d1117&color=c9d1d9&line=00bfbf&point=00bfbf&area=true&hide_border=true" alt="Gráfico de atividade de contribuições"/> </div>
+<div align="center"> <img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,nodejs,express,prisma,tailwind,docker,git" alt="Ícones de Habilidades"/> <em>(Estes são ícones de exemplo. Posso personalizar com as suas tecnologias principais! )</em> </div>
 
 <div align="center">
   
