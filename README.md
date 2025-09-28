@@ -27,7 +27,7 @@ Mastered technologies and topics
 
 ## 📊 GitHub Stats
 
-<div align="center"> <img width="49%" height="200px" src="https://github-readme-stats.vercel.app/api?username=DevMatheusSousa&show_icons=true&hide_border=true&title_color=da70d6&icon_color=da70d6&text_color=c9d1d9&bg_color=0d1117&theme=merko" alt="Estatísticas de Matheus Sousa no estilo galáxia" /> <img width="41%" height="200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DevMatheusSousa&layout=compact&hide_border=true&title_color=da70d6&text_color=da70d6&bg_color=0d1117&theme=merko" /> </div>
+<div align="center"> <img width="49%" height="200px" src="https://github-readme-stats.vercel.app/api?username=DevMatheusSousa&show_icons=true&hide_border=true&title_color=39ff14&icon_color=39ff14&text_color=c9d1d9&bg_color=0d1117&theme=radical" alt="Estatísticas de Matheus Sousa no estilo hacker" /> <img width="41%" height="200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DevMatheusSousa&layout=compact&hide_border=true&title_color=39ff14&text_color=39ff14&bg_color=0d1117&theme=radical" /> <img src="https://raw.githubusercontent.com/DevMatheusSousa/DevMatheusSousa/output/github-contribution-grid-snake.svg" alt="Animação de cobra das contribuições" /> </div>
 
 
 <div align="center">
