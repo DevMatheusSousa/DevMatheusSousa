@@ -27,8 +27,6 @@ Mastered technologies and topics
 
 ## GitHub Stats
 
-<div align="center"> <img src="https://raw.githubusercontent.com/DevMatheusSousa/DevMatheusSousa/output/github-contribution-grid-snake.svg" alt="Animação de cobra das contribuições"/> </div>
-
 <div align="center"> <img width="90%" src="https://github-profile-trophy.vercel.app/?username=DevMatheusSousa&theme=radical&no-frame=true&no-bg=true&margin-w=4" alt="Troféus do GitHub"/> </div>
 
 <p align="center">
