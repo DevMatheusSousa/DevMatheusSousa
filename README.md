@@ -27,7 +27,10 @@ Mastered technologies and topics
 
 ## GitHub Trophies
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DevMatheusSousa&layout=pie&theme=onedark" alt="Barra de Linguagens"/>
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=DevMatheusSousa&theme=onedark&hide_border=true&border_radius=4.5" alt="GitHub Streak Stats"/>
+</p>
+
 
 
 
