@@ -27,15 +27,10 @@ Mastered technologies and topics
 
 ## GitHub Stats
 
-<div align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img 
-      src="https://github-profile-trophy.vercel.app/?username=matheus-sousa&theme=discord&no-bg=true&no-frame=true&margin-w=10&margin-h=10" 
-      alt="Troféus do GitHub"
-      style="max-width: 90%; height: auto;"
-    />
-  </a>
-</div>
+<a href="https://github.com/ryo-ma/github-trophy">
+  <img src="https://github-profile-trophy.vercel.app/?username=SEU-USUARIO" alt="GitHub Trophies" />
+</a>
+
 
 
 
