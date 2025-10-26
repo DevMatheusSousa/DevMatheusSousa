@@ -33,23 +33,18 @@
   
 
 
-## 🏆 GitHub Stats & Trophies
+## 🏆 Troféus e Conquistas
 
 <div align="center">
-  <!-- GitHub Stats -->
-  <a href="https://github.com/MatheusSousaAraujo">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=MatheusSousaAraujo&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  </a>
-  <!-- Top Languages -->
-  <a href="https://github.com/MatheusSousaAraujo">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MatheusSousaAraujo&layout=compact&langs_count=7&theme=dracula"/>
+  <!-- GitHub Trophies (Comunidade ) -->
+  <a href="https://github.com/ryo-ma/github-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=MatheusSousaAraujo&theme=dracula&column=7" alt="Matheus's GitHub Trophies" />
   </a>
     
-  
 
-  <!-- GitHub Trophies -->
-  <a href="https://github.com/ryo-ma/github-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=MatheusSousaAraujo&theme=dracula&column=7" alt="Matheus Sousa Araujo's GitHub Trophies" />
+  <!-- GitHub Achievements (Oficiais ) -->
+  <a href="https://github.com/MatheusSousaAraujo">
+    <img src="https://github-profile-achievements.vercel.app/?username=MatheusSousaAraujo&theme=dracula&column=4" alt="Matheus's GitHub Achievements"/>
   </a>
 </div>
 
