@@ -26,7 +26,10 @@ Mastered technologies and topics
 </p>
 
 ## GitHub Trophies
-[![trophy](https://github-profile-trophy.vercel.app/?Matheus+Sousa+Araujo=ryo-ma&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+<div align="center">
+  <img width="90%" src="https://github-profile-trophy.vercel.app/?username=DevMatheusSousa&theme=onedark&no-frame=true&no-bg=true&margin-w=4" alt="Troféus do GitHub"/>
+</div>
+
 
 <p align="center">
   <img width="36" height="36" src="https://github.com/user-attachments/assets/42105997-5c9f-4d7c-868b-94b2fac0b17d" />
