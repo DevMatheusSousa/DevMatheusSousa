@@ -28,7 +28,7 @@ Mastered technologies and topics
 ## GitHub Stats
 
 <a href="https://github.com/ryo-ma/github-trophy">
-  <img src="https://github-profile-trophy.vercel.app/?username=MatheusSousaAraujo" alt="GitHub Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=MatheusSousaAraujo&refresh=20251026" alt="GitHub Trophies" />
 </a>
 
 <p align="center">
