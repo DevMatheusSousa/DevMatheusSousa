@@ -29,11 +29,12 @@ Mastered technologies and topics
 
 <div align="center">
   <img 
-    src="https://github-profile-trophy.vercel.app/?username=DevMatheusSousa&theme=radical&no-frame=true&no-bg=true&margin-w=4" 
+    src="https://github-profile-trophy.vercel.app/?username=matheus-sousa&theme=radical&no-frame=true&no-bg=true&margin-w=4"
     alt="Troféus do GitHub"
     style="max-width: 90%; height: auto; border-radius: 10px;"
   />
 </div>
+
 
 
 <p align="center">
