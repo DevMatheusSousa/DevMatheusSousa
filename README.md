@@ -25,18 +25,10 @@ Mastered technologies and topics
   <img width="46" height="46" src="https://github.com/user-attachments/assets/b57ca050-fddf-47d6-bc3a-d2a777bccf43" />
 </p>
 
-<h3 align="center">Estatísticas do GitHub</h3>
+## GitHub Trophies
 
-<p align="center">
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api?username=MatheusSousaAraujo&show_icons=true&theme=radical&hide_border=false" alt="Matheus's GitHub Stats" />
-  </a>
-</p>
-
-## GitHub Trophies (Tente novamente mais tarde, se quiser)
-
-<a href="https://github.com/ryo-ma/github-trophy">
-  <img src="https://github-profile-trophy.vercel.app/?username=MatheusSousaAraujo&refresh=20251026" alt="GitHub Trophies" />
+<a href="https://github.com/ryo-ma/github-profile-trophy">
+  <img src="https://github-trophies-self-deploy.vercel.app/?username=MatheusSousaAraujo" alt="GitHub Trophies" />
 </a>
 
 <p align="center">
