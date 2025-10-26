@@ -27,7 +27,14 @@ Mastered technologies and topics
 
 ## GitHub Stats
 
-<div align="center"> <img width="90%" src="https://github-profile-trophy.vercel.app/?username=DevMatheusSousa&theme=radical&no-frame=true&no-bg=true&margin-w=4" alt="Troféus do GitHub"/> </div>
+<div align="center">
+  <img 
+    src="https://github-profile-trophy.vercel.app/?username=DevMatheusSousa&theme=radical&no-frame=true&no-bg=true&margin-w=4" 
+    alt="Troféus do GitHub"
+    style="max-width: 90%; height: auto; border-radius: 10px;"
+  />
+</div>
+
 
 <p align="center">
   <img width="36" height="36" src="https://github.com/user-attachments/assets/42105997-5c9f-4d7c-868b-94b2fac0b17d" />
