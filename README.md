@@ -28,13 +28,21 @@ Mastered technologies and topics
 ## GitHub Trophies
 
 <div align="center">
+  <!-- Troféus do GitHub -->
   <a href="https://github-profile-trophy.vercel.app/?username=DevMatheusSousa&theme=onedark">
-    <img width="90%" src="https://github-profile-trophy.vercel.app/?username=DevMatheusSousa&theme=onedark&no-frame=true&no-bg=true&margin-w=4" alt="Troféus do GitHub"/>
+    <img src="https://github-profile-trophy.vercel.app/?username=DevMatheusSousa&theme=onedark&no-frame=true&no-bg=true&margin-w=4" alt="Troféus do GitHub"/>
   </a>
+  
+  <!-- Cartão de Estatísticas -->
+  <img src="https://github-readme-stats.vercel.app/api?username=DevMatheusSousa&show_icons=true&theme=onedark&hide_border=true" alt="Estatísticas do GitHub"/>
+  
+  <!-- Cartão de Linguagens -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DevMatheusSousa&layout=compact&theme=onedark&hide_border=true" alt="Linguagens mais usadas"/>
 </div>
 
 
 
+--
 
 
 <p align="center">
