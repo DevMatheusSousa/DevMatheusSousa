@@ -27,11 +27,12 @@ Mastered technologies and topics
 
 ## GitHub Trophies
 
-<img src="https://github-profile-trophy.vercel.app/?username=DevMatheusSousa&theme=aura" alt="Troféus do GitHub"/>
+
 
 
 
 <picture>
+  <img src="https://github-profile-trophy.vercel.app/?username=DevMatheusSousa&theme=aura" alt="Troféus do GitHub"/>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/DevMatheusSousa/DevMatheusSousa/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/DevMatheusSousa/DevMatheusSousa/output/github-contribution-grid-snake.svg">
   <img alt="github-snake" src="https://raw.githubusercontent.com/DevMatheusSousa/DevMatheusSousa/output/github-contribution-grid-snake.svg">
