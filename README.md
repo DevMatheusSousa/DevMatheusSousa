@@ -32,7 +32,7 @@ Mastered technologies and topics
 
 
 <picture>
-  <img src="https://github-profile-trophy.vercel.app/?username=DevMatheusSousa&theme=aura" alt="Troféus do GitHub"/>
+  
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/DevMatheusSousa/DevMatheusSousa/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/DevMatheusSousa/DevMatheusSousa/output/github-contribution-grid-snake.svg">
   <img alt="github-snake" src="https://raw.githubusercontent.com/DevMatheusSousa/DevMatheusSousa/output/github-contribution-grid-snake.svg">
@@ -40,6 +40,7 @@ Mastered technologies and topics
 
 
 <p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=DevMatheusSousa&theme=aura" alt="Troféus do GitHub"/>
   <img width="36" height="36" src="https://github.com/user-attachments/assets/42105997-5c9f-4d7c-868b-94b2fac0b17d" />
   <img width="36" height="36" src="https://github.com/user-attachments/assets/fda8378f-4597-4181-baa5-381360bcc83d" />
 </p>
