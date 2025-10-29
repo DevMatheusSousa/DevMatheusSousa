@@ -23,6 +23,7 @@ Mastered technologies and topics
   <img width="46" height="46" src="https://github.com/user-attachments/assets/b4807ba1-184c-4a86-ac9a-c9c717322e62" />
   <img width="46" height="46" src="https://github.com/user-attachments/assets/1b6a0710-1dc2-4c77-8213-94064e31e983" />
   <img width="46" height="46" src="https://github.com/user-attachments/assets/b57ca050-fddf-47d6-bc3a-d2a777bccf43" />
+   <img src="https://github-profile-trophy.vercel.app/?username=DevMatheusSousa&theme=aura" alt="Troféus do GitHub"/>
 </p>
 
 ## GitHub Trophies
@@ -40,7 +41,6 @@ Mastered technologies and topics
 
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=DevMatheusSousa&theme=aura" alt="Troféus do GitHub"/>
   <img width="36" height="36" src="https://github.com/user-attachments/assets/42105997-5c9f-4d7c-868b-94b2fac0b17d" />
   <img width="36" height="36" src="https://github.com/user-attachments/assets/fda8378f-4597-4181-baa5-381360bcc83d" />
 </p>
